@@ -21,7 +21,7 @@
     AR is not tracking!
   </button>
   
-</model-viewer>  <!-- 正確的結尾 -->
+</model-viewer>  
 
 <script type="module">
   const modelViewer = document.querySelector("model-viewer");
